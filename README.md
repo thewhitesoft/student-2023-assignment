@@ -25,7 +25,7 @@
 
 ---
 ## Куда отсылать
-Программу на любом языке программирования отсылать на [student@theWhite.ru](mailto:student@theWhite.ru). Решение должно содержать инструкцию для запуска<br/>
+Программу на любом языке программирования отсылать в [Telegram](https://t.me/progress_icu). Решение должно содержать инструкцию для запуска<br/>
 Размещение в Git ([Git](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/dashboard/overview)) будет плюсом.
 ## Что еще
 Расскажи о себе больше, заполнив [анкету](https://forms.gle/YrYnA8o2gaaHNN6p7)
